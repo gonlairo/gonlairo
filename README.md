@@ -1,5 +1,3 @@
-<img src="portrait.jpg" alt="Rodrigo Gonzalez Laiz" width="220" align="right">
-
 Hi! I'm a third-year PhD student at Helmholtz Munich, advised by [Steffen Schneider](https://stes.io/).
 
 My research explores how we can **learn world models that capture the underlying dynamics of complex systems**, particularly in scientific domains such as **neuroscience**. I develop self-supervised learning methods that recover meaningful and identifiable representations and dynamics from high-dimensional, nonlinear observations.
